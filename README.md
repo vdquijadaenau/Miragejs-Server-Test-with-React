@@ -1,7 +1,5 @@
-# Mirage Tutorial
+# Mirage Js with React App
 
-This is the Reminders app for the official Mirage tutorial.
+Creation of Mocking api to test with React applications
 
-Check out [miragejs.com/tutorial](https://miragejs.com/tutorial) to follow along. 
-
-Happy mocking!
+Miragejs (Documentation)[https://miragejs.com/]
